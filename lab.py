@@ -3,7 +3,7 @@
 
 print("Welcome to the Debugging Lab!")
 
-name = int(input("Enter your name: "))
+name = input("Enter your name: ")
 print("Hello " + name + "!" + " Let's calculate your test scores.")
 
 scores = [85, 90, 78, "88", 92]
